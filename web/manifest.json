@@ -1,6 +1,6 @@
 {
-    "name": "expansses_project",
-    "short_name": "expansses_project",
+    "name": "projetodespesa",
+    "short_name": "projetodespesa",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

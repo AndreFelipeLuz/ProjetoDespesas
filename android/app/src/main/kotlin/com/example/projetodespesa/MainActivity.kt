@@ -1,4 +1,4 @@
-package com.example.expansses_project
+package com.example.projetodespesa
 
 import io.flutter.embedding.android.FlutterActivity
 
